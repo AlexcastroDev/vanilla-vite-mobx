@@ -6,7 +6,7 @@
 
 O intuito é criar um projeto simples, só pra ver o funcionamento, ciclo de vida, e flow do Mobx.
 <br>
-<img src="https://github.com/AlexcastroDev/vanilla-vite-mobx/blob/main/vite-vanilla.png" width="800" height="400">
+<img src="https://github.com/AlexcastroDev/vanilla-vite-mobx/blob/project/vite-vanilla.png" width="800" height="400">
 
 <br>
 
